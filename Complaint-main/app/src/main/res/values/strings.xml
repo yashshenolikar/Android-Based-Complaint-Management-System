@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Complaint</string>
+    <string name="userid">UserID</string>
+    <string name="password">PassWord</string>
+    <string name="new_user_register_here">New User? Register Here!</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_mail">Enter your mail</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="enter_location">Enter Location</string>
+</resources>
